@@ -1,4 +1,4 @@
-- 👋 Hi, here's Zian, a student of the University of Pittsburgh. I'm taking a Master's degree and major in Information Science.
+- 👋 Hi, here's Zian Wang, a second-year graduate student studying for a Master of Science degree (MSc) in Information Science at the School of Computing and Information of the University of Pittsburgh.
 - 👀 I’m interested in almost everything, especially algorithm and data analytic.
 - 💞️ I’m looking to collaborate on some projects about big data or anything about data.
 - 📫 My email is ZIW42@pitt.edu.
