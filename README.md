@@ -2,7 +2,7 @@
 - 👀 I am interested in Machine Learning, Data Mining, and NLP.
 - ✍️ I am currently working on a review thesis of Bayesian Optimization. Also, I am learning building GAN to solve some real-world problems.
 - 😊 I plan to apply for a Ph.D. program starts from Spring 2023 or Fall 2023, I will graduate from my current program at December 2022.
-- Here is my CV. Also, most of my recent projects are in my repositories on Github.
+- [Here is my CV](https://github.com/ziw42/ziw42/blob/main/Zian_Wang_CV.pdf). Also, most of my recent projects are in my repositories on Github.
 
 
 - About me: self-motivated, accustomed to work myself, but also have lots of team-work experience.
