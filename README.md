@@ -8,7 +8,7 @@
 - Scheduled many group projects and assigned the work to everyone. All teammates I worked with are really great.
 - Work for Dr. Yuru at her lab: PICSO from Fall 2021, working as a technical team member. Very grateful for this opportunity given by Dr. Yuru.
 - Now taking independent study given by Dr. Yurko, who is a really incredible guider.
-- 
+
 - - Like reading and sports, currently reading O'Henry's novels. Do not work out but like soccer and baseball.
 - - Pop music lover. Alessia Cara, Sia, and Jay Chou always give me power.
 
